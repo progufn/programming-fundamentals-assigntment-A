@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment2.params=name_
+comment2.target=Player(java.lang.String)
+comment3.params=place
+comment3.target=void\ move(int)
+comment4.params=jar_
+comment4.target=void\ pickUp(Jar)
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Jar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Jar\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Jar()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Jar\r\n
+comment2.params=pos\ stone_
+comment2.target=Jar(int,\ Stone)
+comment3.params=jar
+comment3.target=Jar(Jar)
+comment4.params=pos
+comment4.target=void\ position(int)
+comment5.params=jar
+comment5.target=void\ moveTo(Jar)
+numComments=6
